@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    background-color: black;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.inputBox {
+    /* background-color: white; */
+    color: black;
+}
+
+.outputRes {
+    background-color: rgb(37, 27, 27);
+    color: white;
+}
